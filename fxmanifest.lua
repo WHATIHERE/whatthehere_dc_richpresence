@@ -9,4 +9,4 @@ author 'JJ X?'
 description 'DISCORD RICHPRESENCE'
 fx_version 'bodacious'
 game 'gta5'
-client_script {'config.js', 'client/client.js'}
+client_script {'client/client.js'}
