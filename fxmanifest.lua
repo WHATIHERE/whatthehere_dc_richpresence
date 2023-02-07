@@ -4,7 +4,7 @@
 --  * ง่ายๆสั้นๆ ^_^
 -- หน้าเรียกใช้ ไม่มีการเรียกใช้ server นะจ๊ะ55+
 --  *********************************************************
-version '9.9.9'
+version '10.1.1'
 author 'JJ X?'
 description 'DISCORD RICHPRESENCE'
 fx_version 'bodacious'
